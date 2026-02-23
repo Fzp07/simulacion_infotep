@@ -1,11 +1,23 @@
-# UNICARIBE - Simulación Computacional - 2025-II Homeworks
+# Institución Universitaria del Caribe
+# Bienvenidos al Curso de Diseño de Prototipos: Simulación y Robótica, periodo 2026-I
+
+Es un placer recibirlos en uno de los cursos más apasionantes y dinámicos de su formación profesional. Han elegido adentrarse en un mundo donde la imaginación se convierte en realidad: el diseño de prototipos, la simulación y la robótica. A lo largo de este curso explorarán los fundamentos que impulsan la innovación tecnológica actual. Aprenderán a transformar ideas en soluciones concretas, a modelar sistemas complejos mediante herramientas de simulación computacional, y a dar vida a mecanismos inteligentes a través de la robótica. Cada práctica, cada error y cada ajuste serán parte esencial de su aprendizaje, porque en ingeniería, el prototipo que falla, es el prototipo más importante, es el prototipo que fundamentará su aprendizaje.
+
+La UniCaribe les brinda este espacio para que desarrollen pensamiento crítico, trabajo en equipo y habilidades técnicas que serán altamente valoradas en el mercado laboral. Los retos que enfrentarán aquí los prepararán para resolver problemas reales en industrias como la manufactura, la automatización, la salud y muchas más.
+
+Mi invitación es a que lleguen con curiosidad, con disposición para colaborar y con las ganas de construir, probar y mejorar. El prototipo perfecto no existe desde el primer intento, pero la perseverancia siempre encuentra el camino.
+
+¡Bienvenidos, futuros ingenieros e innovadores. El futuro lo diseñan ustedes!
 
 Los entregables del curso deberán enviarse a traves de este repositorio de GitHub como PR. Se recomienda clonar el proyecto, actualizar su carpeta de grupo y realizar un PR. Evite editar cualquier contenido diferente a la carpeta de su grupo. Todo PR que contenga modificaciones a contenidos no permitidos será descartado y se asumirá como no entregable.
+
+Atentamente: Su amigo y profesor PhD Jorge Rudas
+
+# Referencias para el curso
 
 ```
 git clone https://github.com/jrudascas/simulacion_infotep.git
 ```
-
 
 ## Comandos utiles en git
 
@@ -38,7 +50,7 @@ User `git push`
 
 
 ```
-NOTA: Estos tutoriales son solo una guía. El manejo de herramientas hace parte de su formación autonoma. Se recomienda ahondar en cada herramienta tan profundo como le sea posible.
+NOTA: Estos tutoriales son solo una guía. El manejo de herramientas hace parte de su formación autónoma. Se recomienda ahondar en cada herramienta tan profundo como le sea posible.
 ```
 
 
@@ -68,6 +80,6 @@ https://www.overleaf.com/latex/templates/template-for-nonlinear-analysis-modelli
 
 ## Listado de grupos y calificaciones
 
-[Link grupo y calificaciones](https://docs.google.com/spreadsheets/d/1StpMf-J5jWkpVMUVqzshctOb2adZm4u0ZjLjLuNYKR8/edit?usp=sharing)
+[Link grupo y calificaciones](https://docs.google.com/spreadsheets/d/1s-9selIqJONkf3vM_PJnUU77NsCxae1A/edit?usp=sharing&ouid=110356131462273622705&rtpof=true&sd=true)
  
 Por favor cualquier duda puede ser remitida al correo [jrudascas@gmail.com](jrudascas@gmail.com).
