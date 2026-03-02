@@ -11,7 +11,8 @@ Mi invitación es a que lleguen con curiosidad, con disposición para colaborar 
 
 Los entregables del curso deberán enviarse a traves de este repositorio de GitHub como PR. Se recomienda clonar el proyecto, actualizar su carpeta de grupo y realizar un PR. Evite editar cualquier contenido diferente a la carpeta de su grupo. Todo PR que contenga modificaciones a contenidos no permitidos será descartado y se asumirá como no entregable.
 
-Atentamente: Su amigo y profesor PhD Jorge Rudas
+Atentamente
+Su amigo y profesor PhD Jorge Rudas
 
 # Referencias para el curso
 
@@ -61,6 +62,7 @@ NOTA: Estos tutoriales son solo una guía. El manejo de herramientas hace parte 
 - [Arreglos en Python](https://www.youtube.com/watch?v=97o5ckUHDmo)
 - [Curso de Numpy - I](https://www.youtube.com/watch?v=cYm3DBG6KfI)
 - [Curso de Numpy - II](https://www.youtube.com/watch?v=G8t7gMgY5JM&list=PLg9145ptuAij_8zYgMeqwOV8ABwRYLuR3)
+- [Ruta de programación en Python](https://retosdeprogramacion.com/roadmap/)
 
 ## Proyectos finales del curso
 
@@ -70,7 +72,6 @@ NOTA: Estos tutoriales son solo una guía. El manejo de herramientas hace parte 
 ## Lecturas sugeridas
 
 - [Lectura sugerida # 1 - Buenas practicas en el uso de libros de Jupyter Notebooks](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007007&type=printable)
-- [Impacto de la IA Generativa en el pensamiento critico](https://drive.google.com/file/d/1w20STqksV6vM4cs3-SnHdftBfOeGqd9G/view?usp=sharing)
 
 ## Plantilla de informes
 
