@@ -68,7 +68,7 @@ NOTA: Estos tutoriales son solo una guía. El manejo de herramientas hace parte 
 
 1. 
 
-## Parciales # 1
+## Examen Parcial # 1
 - Las instrucciones del parcial corte I 2026 para cada grupo, están descritos en la presentación llamada C2.1 dentro de la carpeta /Presentaciones
 
 ## Lecturas sugeridas
